@@ -1,1 +1,3 @@
 # vsCode
+
+* settings.json
