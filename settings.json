@@ -1,11 +1,9 @@
 {
-    "workbench.colorTheme": "Material Theme High Contrast",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Community Material Theme High Contrast",
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "window.zoomLevel": 2,
     "diffEditor.ignoreTrimWhitespace": false,
     "workbench.startupEditor": "newUntitledFile",
     "javascript.implicitProjectConfig.checkJs": true,
@@ -14,7 +12,6 @@
     "workbench.sideBar.location": "right",
     "editor.minimap.enabled": false,
     "workbench.settings.editor": "json",
-    "breadcrumbs.enabled": false,
     "workbench.statusBar.visible": true,
     "workbench.activityBar.visible": true,
     "peacock.affectTitleBar": true,
@@ -64,4 +61,7 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true,
     },
+    "bracketPairColorizer.depreciation-notice": false,
+    "window.zoomLevel": 1,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
 }
