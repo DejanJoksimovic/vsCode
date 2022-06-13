@@ -12,3 +12,4 @@
 * Peacock
 * Prettier
 * Prettify json
+* Code Spell Checker
