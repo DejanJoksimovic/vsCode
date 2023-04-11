@@ -3,7 +3,7 @@
 * settings.json
 
 ## Extensions:
-* Git lens
+* Gitlens
 * Bracket pair coloriser
 * Community material theme
 * Es lint
