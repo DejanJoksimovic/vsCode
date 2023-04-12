@@ -6,7 +6,7 @@
     "javascript.updateImportsOnFileMove.enabled": "always",
     "diffEditor.ignoreTrimWhitespace": false,
     "workbench.startupEditor": "newUntitledFile",
-    "javascript.implicitProjectConfig.checkJs": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
     "editor.fontLigatures": true,
     "editor.fontFamily": "'Fira Code'",
     "workbench.sideBar.location": "right",
@@ -17,7 +17,6 @@
     "terminal.integrated.scrollback": 100000000,
     "peacock.affectTitleBar": true,
     "peacock.affectStatusBar": false,
-    "peacock.affectAccentBorders": false,
     "peacock.affectActivityBar": false,
     "peacock.favoriteColors": [
         {
@@ -62,7 +61,7 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true,
     },
-    "bracketPairColorizer.depreciation-notice": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 2,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "workbench.iconTheme": "material-icon-theme",
 }
