@@ -4,8 +4,8 @@
 
 ## Extensions:
 * Gitlens
-* Bracket pair coloriser
-* Community material theme
+* Bracket Pair Colorization Toggler
+* Material Theme
 * Es lint
 * Jest runner
 * Material icon theme
