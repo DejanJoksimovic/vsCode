@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Community Material Theme High Contrast",
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
@@ -13,7 +12,6 @@
     "editor.minimap.enabled": false,
     "workbench.settings.editor": "json",
     "workbench.statusBar.visible": true,
-    "workbench.activityBar.visible": true,
     "terminal.integrated.scrollback": 100000000,
     "peacock.affectTitleBar": true,
     "peacock.affectStatusBar": false,
@@ -59,9 +57,10 @@
     // install fira code font
     // https://github.com/tonsky/FiraCode/wiki/Installing
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
+        "source.fixAll.eslint": "always",
     },
     "window.zoomLevel": 2,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme High Contrast",
 }
